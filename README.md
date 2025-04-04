@@ -1,10 +1,8 @@
-<h1 style="text-align: center; font-size: 36px; font-weight: bold;">Car Tax & Selling Price Calculator</h1>
+<h1 style="text-align: center; font-size: 48px; font-weight: bold; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Car Tax & Selling Price Calculator</h1>
 
+<p style="text-align: center; font-size: 18px; font-style: italic; color: #555;">Este projeto é uma aplicação distribuída que calcula o <strong>imposto</strong> e o <strong>preço de venda</strong> de carros com base no <strong>ano de fabricação</strong> e <strong>cilindrada do motor</strong>.</p>
 
-
-Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
-
-
+<hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## Índice
 - [Sobre](#sobre)
@@ -17,10 +15,10 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 
 Este projeto tem como objetivo calcular dois valores essenciais para a venda de um carro:
 
-1. **Imposto**: Calculado com base na **cilindrada do motor** do carro.
-2. **Preço de Venda**: Calculado considerando a **depreciação** do carro ao longo dos anos, com base no **ano de fabricação**.
+1. <strong>Imposto</strong>: Calculado com base na <strong>cilindrada do motor</strong> do carro.
+2. <strong>Preço de Venda</strong>: Calculado considerando a <strong>depreciação</strong> do carro ao longo dos anos, com base no <strong>ano de fabricação</strong>.
 
-A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Procedure Call)**, permitindo que os cálculos sejam feitos no servidor e os resultados retornem ao cliente.
+A comunicação entre o cliente e o servidor é realizada via <strong>RPC (Remote Procedure Call)</strong>, permitindo que os cálculos sejam feitos no servidor e os resultados retornem ao cliente.
 
 ## Como Usar
 
@@ -51,7 +49,7 @@ A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Proc
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
 
-A interface gráfica do cliente será exibida, onde você pode inserir os dados do carro e obter os cálculos de **imposto** e **preço de venda**.
+A interface gráfica do cliente será exibida, onde você pode inserir os dados do carro e obter os cálculos de <strong>imposto</strong> e <strong>preço de venda</strong>.
 
 ## Instalação
 
@@ -75,10 +73,11 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 
 ## Tecnologias
 
-- **Java 8+**
-- **RMI (Remote Method Invocation)**
-- **Swing (para a interface gráfica)**
+- <strong>Java 8+</strong>
+- <strong>RMI (Remote Method Invocation)</strong>
+- <strong>Swing (para a interface gráfica)</strong>
 
 ## Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
+
