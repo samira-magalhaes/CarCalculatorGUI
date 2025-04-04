@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
 
-![Logo do Projeto]([https://link-para-logo.com/logo.png](https://www.flaticon.com/br/sticker-gratis/calculadora_5483738))
+![Logo do Projeto]()
 
 ## Índice
 - [Sobre](#sobre)
