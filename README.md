@@ -1,5 +1,3 @@
-# Calculadora do Imposto Automóvel e Preço de Venda
-
 <div align="center">
   <h1>Calculadora do Imposto Automóvel e Preço de Venda</h1>
 </div>
