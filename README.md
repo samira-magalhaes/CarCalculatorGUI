@@ -1,8 +1,4 @@
-# Car Tax & Selling Price Calculator
-
-<div style="text-align: center; font-size: 42px; font-weight: bold; color: #4CAF50; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2); margin-top: 40px; margin-bottom: 20px;">
-    Car Tax & Selling Price Calculator
-</div>
+# <h1 style="text-align: center; font-size: 42px; font-weight: bold; color: #4CAF50; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2); margin-top: 40px; margin-bottom: 20px;">Car Tax & Selling Price Calculator</h1>
 
 Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
 
@@ -82,4 +78,3 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 ## Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
-
