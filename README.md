@@ -80,7 +80,6 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     ```bash
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
-<br>
 
 ## Tecnologias
 
