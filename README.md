@@ -15,7 +15,7 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 - [Tecnologias](#tecnologias)
 - [Contribuição ao Cliente](#contribuicao-ao-cliente)
 - [Licença](#licenca)
-<br>
+
   
 ## Sobre
 
@@ -79,7 +79,7 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 4. Execute o cliente com:
     ```bash
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
-    ```
+  ```
 
 ## Tecnologias
 
@@ -99,6 +99,7 @@ Este projeto oferece uma solução eficaz e eficiente para as concessionárias, 
 Isso proporciona não apenas uma experiência mais ágil, mas também mais transparente para os clientes e vendedores, garantindo que todos os cálculos necessários sejam realizados corretamente e de maneira rápida.
 <br>
 <br>
+
 ## Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
