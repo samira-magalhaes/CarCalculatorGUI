@@ -80,6 +80,7 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     ```bash
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
+<br>
 
 ## Tecnologias
 
@@ -97,6 +98,7 @@ Este projeto oferece uma solução eficaz e eficiente para as concessionárias, 
 3. **Automação e redução de erros**: O sistema automatiza o processo de cálculo, minimizando a possibilidade de erros humanos e melhorando a eficiência no processo de venda de veículos.
 
 Isso proporciona não apenas uma experiência mais ágil, mas também mais transparente para os clientes e vendedores, garantindo que todos os cálculos necessários sejam realizados corretamente e de maneira rápida.
+<br>
 <br>
 
 ## Licença
