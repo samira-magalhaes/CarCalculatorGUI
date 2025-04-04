@@ -3,8 +3,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
 
 ---
