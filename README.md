@@ -82,16 +82,12 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
 <br>
-<br>
-
 ## Tecnologias
 
 - **Java 8+**
 - **RMI (Remote Method Invocation)**
 - **Swing (para a interface gráfica)**
 <br>
-<br>
-
 ## Contribuição ao Cliente
 
 Este projeto oferece uma solução eficaz e eficiente para as concessionárias, vendedores de carros e consumidores que buscam calcular com precisão o imposto devido sobre a compra de veículos e o preço de venda de carros usados. A contribuição principal ao cliente é:
