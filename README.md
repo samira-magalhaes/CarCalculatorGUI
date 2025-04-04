@@ -77,4 +77,4 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
+Este projeto está sob a licença MIT. Veja
