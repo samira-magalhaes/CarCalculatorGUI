@@ -16,8 +16,7 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 - [Contribuição ao Cliente](#contribuicao-ao-cliente)
 - [Licença](#licenca)
 <br>
-<br>
-
+  
 ## Sobre
 
 Este projeto tem como objetivo calcular dois valores essenciais para a venda de um carro:
@@ -82,6 +81,7 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
 <br>
+
 ## Tecnologias
 
 - **Java 8+**
