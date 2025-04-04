@@ -1,8 +1,8 @@
-<h1 style="text-align: center; font-size: 48px; font-weight: bold; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Car Tax & Selling Price Calculator</h1>
+<h1 style="text-align: center; font-size: 56px; font-weight: bold; color: #4CAF50; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);">Car Tax & Selling Price Calculator</h1>
 
-<p style="text-align: center; font-size: 18px; font-style: italic; color: #555;">Este projeto é uma aplicação distribuída que calcula o <strong>imposto</strong> e o <strong>preço de venda</strong> de carros com base no <strong>ano de fabricação</strong> e <strong>cilindrada do motor</strong>.</p>
+<p style="text-align: center; font-size: 20px; font-style: italic; color: #555;">Este projeto é uma aplicação distribuída que calcula o <strong>imposto</strong> e o <strong>preço de venda</strong> de carros com base no <strong>ano de fabricação</strong> e <strong>cilindrada do motor</strong>.</p>
 
-<hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
+<hr style="border: 1px solid #ddd; width: 80%; margin: 30px auto;">
 
 ## Índice
 - [Sobre](#sobre)
@@ -80,4 +80,3 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 ## Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
-
