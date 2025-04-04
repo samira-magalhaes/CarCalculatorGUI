@@ -1,7 +1,10 @@
 
 Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
+<br>
+<br>
 
 ## Índice
+<br>
 
 - [Sobre](#sobre)
 - [Como Usar](#como-usar)
@@ -11,8 +14,10 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 - [Licença](#licença)
 
 <br>
+<br>
 
 ## Sobre
+<br>
 
 Este projeto tem como objetivo calcular dois valores essenciais para a venda de um carro:
 
@@ -22,8 +27,10 @@ Este projeto tem como objetivo calcular dois valores essenciais para a venda de 
 A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Procedure Call)**, permitindo que os cálculos sejam feitos no servidor e os resultados retornem ao cliente.
 
 <br>
+<br>
 
 ## Como Usar
+<br>
 
 1. Clone o repositório:
     ```bash
@@ -55,8 +62,10 @@ A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Proc
 A interface gráfica do cliente será exibida, onde você pode inserir os dados do carro e obter os cálculos de **imposto** e **preço de venda**.
 
 <br>
+<br>
 
 ## Instalação
+<br>
 
 1. Clone o repositório:
     ```bash
@@ -77,16 +86,20 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     ```
 
 <br>
+<br>
 
 ## Tecnologias
+<br>
 
 - **Java 8+**  
 - **RMI (Remote Method Invocation)**  
 - **Swing (para a interface gráfica)**
 
 <br>
+<br>
 
 ## Contributo ao Cliente
+<br>
 
 Este projeto oferece uma solução eficaz e eficiente para concessionárias, vendedores de carros e consumidores que buscam calcular com precisão o imposto e o preço de venda de veículos usados. A contribuição principal ao cliente inclui:
 
@@ -102,7 +115,9 @@ Este projeto oferece uma solução eficaz e eficiente para concessionárias, ven
 Essa automação proporciona uma experiência mais ágil e transparente tanto para os clientes quanto para os vendedores.
 
 <br>
+<br>
 
 ## Licença
+<br>
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
