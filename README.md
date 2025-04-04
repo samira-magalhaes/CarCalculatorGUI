@@ -15,7 +15,8 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 - [Tecnologias](#tecnologias)
 - [Contribuição ao Cliente](#contribuicao-ao-cliente)
 - [Licença](#licenca)
-
+<br>
+<br>
 ## Sobre
 
 Este projeto tem como objetivo calcular dois valores essenciais para a venda de um carro:
@@ -24,7 +25,8 @@ Este projeto tem como objetivo calcular dois valores essenciais para a venda de 
 2. **Preço de Venda**: Calculado considerando a **depreciação** do carro ao longo dos anos, com base no **ano de fabricação**.
 
 A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Procedure Call)**, permitindo que os cálculos sejam feitos no servidor e os resultados retornem ao cliente.
-
+<br>
+<br>
 ## Como Usar
 
 1. Clone o repositório:
@@ -55,7 +57,8 @@ A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Proc
     ```
 
 A interface gráfica do cliente será exibida, onde você pode inserir os dados do carro e obter os cálculos de **imposto** e **preço de venda**.
-
+<br>
+<br>
 ## Instalação
 
 1. Clone o repositório:
@@ -75,13 +78,15 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
     ```bash
     java ro.tuc.dsrl.ds.handson.assig.two.client.communication.CarCalculatorGUI
     ```
-
+<br>
+<br>
 ## Tecnologias
 
 - **Java 8+**
 - **RMI (Remote Method Invocation)**
 - **Swing (para a interface gráfica)**
-
+<br>
+<br>
 ## Contribuição ao Cliente
 
 Este projeto oferece uma solução eficaz e eficiente para as concessionárias, vendedores de carros e consumidores que buscam calcular com precisão o imposto devido sobre a compra de veículos e o preço de venda de carros usados. A contribuição principal ao cliente é:
@@ -91,7 +96,7 @@ Este projeto oferece uma solução eficaz e eficiente para as concessionárias, 
 3. **Automação e redução de erros**: O sistema automatiza o processo de cálculo, minimizando a possibilidade de erros humanos e melhorando a eficiência no processo de venda de veículos.
 
 Isso proporciona não apenas uma experiência mais ágil, mas também mais transparente para os clientes e vendedores, garantindo que todos os cálculos necessários sejam realizados corretamente e de maneira rápida.
-
+<br>
 ## Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
