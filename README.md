@@ -3,6 +3,8 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Índice
 <br>
@@ -19,7 +21,8 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 ## Sobre
 <br>
@@ -32,6 +35,8 @@ Este projeto tem como objetivo calcular dois valores essenciais para a venda de 
 
 A comunicação entre o cliente e o servidor é realizada via **RPC (Remote Procedure Call)**, permitindo que os cálculos sejam feitos no servidor e os resultados retornem ao cliente.
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -72,6 +77,8 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Instalação
 <br>
@@ -98,6 +105,8 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Tecnologias
 <br>
@@ -107,6 +116,8 @@ A interface gráfica do cliente será exibida, onde você pode inserir os dados 
 - **RMI (Remote Method Invocation)**  
 - **Swing (para a interface gráfica)**
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -128,6 +139,8 @@ Este projeto oferece uma solução eficaz e eficiente para concessionárias, ven
 
 Essa automação proporciona uma experiência mais ágil e transparente tanto para os clientes quanto para os vendedores.
 
+<br>
+<br>
 <br>
 <br>
 <br>
