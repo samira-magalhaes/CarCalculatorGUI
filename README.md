@@ -15,7 +15,7 @@ Este projeto é uma aplicação distribuída que calcula o **imposto** e o **pre
 - [Tecnologias](#tecnologias)
 - [Contribuição ao Cliente](#contribuicao-ao-cliente)
 - [Licença](#licenca)
-
+<br>
   
 ## Sobre
 
