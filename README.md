@@ -2,7 +2,8 @@
   <h1 align="center">Calculadora do Imposto Automóvel e Preço de Venda</h1>
 </div>
 
-
+<br>
+<br>
 
 Este projeto é uma aplicação distribuída que calcula o **imposto** e o **preço de venda** de carros com base no **ano de fabricação** e **cilindrada do motor**.
 <br>
